@@ -1,0 +1,4 @@
+#sets the staging environment base url
+base_url: 'https://automation-sandbox.herokuapp.com'
+username: 'demouser'
+password: 'abc123'

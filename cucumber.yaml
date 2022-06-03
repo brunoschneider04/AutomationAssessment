@@ -1,0 +1,6 @@
+---
+
+default: -p pretty -p homolog -p html
+pretty: --format pretty
+homolog: ENVIRONMENT=staging
+html: --format html --out=reports/report.html
